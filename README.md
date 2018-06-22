@@ -14,3 +14,6 @@ The .vimrc sets up the editor and uses the provided spelling word list (which is
 
 [Google inspired uncrustify recipe](https://gist.github.com/mkroman/1372117#file-uncrustify-cfg)
 
+## License
+
+While this isn't a formal project, the contents of this repository are released as open source under the terms of the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0)
